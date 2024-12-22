@@ -348,29 +348,6 @@ color: rgb(72, 89, 53);</string>
     <string>Начать</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pB_update">
-   <property name="geometry">
-    <rect>
-     <x>240</x>
-     <y>510</y>
-     <width>91</width>
-     <height>23</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <weight>75</weight>
-     <bold>true</bold>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: rgb(251, 251, 251);
-color: rgb(72, 89, 53);</string>
-   </property>
-   <property name="text">
-    <string>Обновить</string>
-   </property>
-  </widget>
   <widget class="QPushButton" name="pB_tb">
    <property name="geometry">
     <rect>
